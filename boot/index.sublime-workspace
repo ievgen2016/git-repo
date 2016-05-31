@@ -1,0 +1,420 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"per",
+				"period"
+			],
+			[
+				"p",
+				"percent"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"ta",
+				"target3"
+			],
+			[
+				"tar",
+				"target3"
+			],
+			[
+				"targe",
+				"target1"
+			],
+			[
+				"c",
+				"countQ"
+			],
+			[
+				"date",
+				"date_start"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"re",
+				"required	Attr"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"l",
+				"logo.png	w:258 h:73"
+			],
+			[
+				"max",
+				"maxlength	Attr"
+			],
+			[
+				"mysq",
+				"mysql_connect"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"m",
+				"maxlength	Attr"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"d",
+				"Downloads/"
+			],
+			[
+				"li",
+				"link	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ht",
+		"selected_items":
+		[
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/K/home/localhost/www/blog/index.php",
+		"/K/home/localhost/www/blog/article.php",
+		"/K/home/localhost/www/blog/modules/arcticles.php",
+		"/K/home/localhost/www/blog/index.html",
+		"/F/webserver/home/localhost/www/trainer/css/style.css",
+		"/K/home/localhost/www/php/test2.php",
+		"/F/webserver/home/localhost/www/trainer/index.html",
+		"/C/Users/Женя/Desktop/hello.html",
+		"/K/home/localhost/www/ajax/index.html",
+		"/F/webserver/home/localhost/www/ajax/index.html",
+		"/F/webserver/home/localhost/www/manager_desk/historyFte.php",
+		"/C/Users/Женя/Desktop/angry.html",
+		"/C/Users/Женя/Desktop/st.csv",
+		"/C/Users/Женя/Desktop/staff.csv",
+		"/K/home/localhost/www/manager_desk/add.php",
+		"/K/home/localhost/www/manager_desk/save.php",
+		"/K/home/localhost/www/manager_desk/personal.php",
+		"/K/home/localhost/www/ajax/search.php",
+		"/K/home/localhost/www/mts/index.html",
+		"/K/home/localhost/www/manager_desk/personal.html",
+		"/K/home/localhost/www/ajax/db.php",
+		"/F/webserver/home/localhost/www/gamestore/save.php",
+		"/F/webserver/home/localhost/www/manager_desk/css/style.css",
+		"/F/webserver/home/localhost/www/manager_desk/save.php",
+		"/F/webserver/home/localhost/www/manager_desk/personal.php",
+		"/K/home/localhost/www/manager_desk/del.php",
+		"/K/home/localhost/www/manager_desk/edit.php",
+		"/K/home/localhost/www/manager_desk/js/myscript.js",
+		"/F/webserver/home/localhost/www/manager_desk/history.php",
+		"/F/webserver/home/localhost/www/manager_desk/edit.php",
+		"/F/webserver/home/localhost/www/manager_desk/css/jquery-ui.css",
+		"/K/home/localhost/www/manager_desk/css/style.css",
+		"/K/home/localhost/www/manager_desk/history.php",
+		"/K/home/localhost/www/mts/style.css",
+		"/K/home/localhost/www/mts/search.php",
+		"/K/home/localhost/www/mts/db.php",
+		"/K/home/localhost/www/manager_desk/db.php",
+		"/C/Users/Женя/Downloads/gamestore/gamestore/admin/index.php",
+		"/K/home/localhost/www/gamestore/index2.php",
+		"/C/Users/Женя/Downloads/gamestore/gamestore/admin/history.php",
+		"/C/Users/Женя/Downloads/gamestore/gamestore/admin/edit_save.php",
+		"/C/Users/Женя/Desktop/test.html",
+		"/K/home/localhost/www/gamestore/css/style.css",
+		"/K/home/localhost/www/manager_desk/blocks/meta.php",
+		"/C/Users/Женя/Desktop/test",
+		"/K/home/localhost/www/manager_desk/test.php",
+		"/K/home/localhost/www/manager_desk/indicators.php",
+		"/K/home/localhost/www/phpsite/index.php",
+		"/C/Users/Женя/Downloads/gamestore/index.php",
+		"/K/home/localhost/www/manager_desk/index.php",
+		"/C/Users/Женя/Desktop/index.html",
+		"/K/home/localhost/www/manager_desk/js/jquery.js",
+		"/K/home/localhost/www/manager_desk/css/jquery-ui.css",
+		"/K/home/localhost/www/manager_desk/blocks/head.php",
+		"/K/home/localhost/www/manager_desk/phprusearch/sadmin/index.php",
+		"/K/home/localhost/www/manager_desk/phprusearch/sdata/search.php",
+		"/K/home/localhost/www/manager_desk/phprusearch/index.php",
+		"/C/Users/Женя/Desktop/gamestore/css/style.css",
+		"/C/Users/Женя/Desktop/1.html",
+		"/F/webserver/home/localhost/www/moto/form.php",
+		"/F/webserver/home/localhost/www/moto/js/myscripts.js",
+		"/C/Users/Женя/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/F/webserver/home/localhost/www/moto/index.html",
+		"/C/Users/Женя/Desktop/gamestore/index.html",
+		"/C/Users/Женя/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Женя/Desktop/1"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"	",
+			"Позн",
+			"<div id=\"tabs-2\">\n    привет\n  </div>",
+			"?>",
+			"skill"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
