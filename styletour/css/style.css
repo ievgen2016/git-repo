@@ -6,10 +6,10 @@ body{
 	color:#000;
 	min-width: 320px;
 }
-/*img{
-	min-width: 100%;
+img{
+	max-width: 100%;
 	height: auto;
-}*/
+}
 h3{
 	font-size: 24px;
 	font-weight: bold;
@@ -58,6 +58,19 @@ font-size: 17px;
 margin-right: 	5px;
 position: relative;
 top: -1px;
+}
+
+.menu-carousel .item{
+	min-height: 600px;
+}
+.menu-carousel .bgslide{
+	background-size: cover;
+	background-position: center;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
 }
 /* Large Devices, Wide Screens */
 @media only screen and (max-width : 1200px) {

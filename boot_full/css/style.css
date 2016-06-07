@@ -2,3 +2,7 @@
 	background: #eee;
 	border: 1px solid #ccc;
 }
+img{
+	max-width: 100%;
+	max-height: auto;
+}
